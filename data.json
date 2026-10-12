@@ -1,0 +1,872 @@
+[
+  {
+    "english": "Hello",
+    "context": "Start a friendly conversation.",
+    "cells": [
+      {
+        "language": "Mandarin 中文",
+        "key": "mandarin",
+        "text": "你好",
+        "reading": "nǐ hǎo",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/mandarin.php"
+      },
+      {
+        "language": "Malay Bahasa Melayu",
+        "key": "malay",
+        "text": "Selamat pagi",
+        "reading": "Morning greeting; choose the greeting for the time of day.",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/malay.php"
+      },
+      {
+        "language": "Tamil தமிழ்",
+        "key": "tamil",
+        "text": "வணக்கம்",
+        "reading": "vaṇakkam",
+        "confidence": "Medium",
+        "note": "Source-backed, but spoken/formal usage needs Singapore speaker review.",
+        "source": "https://omniglot.com/language/phrases/tamil.php"
+      },
+      {
+        "language": "Hokkien 福建话",
+        "key": "hokkien",
+        "text": "你好",
+        "reading": "lí-hó",
+        "confidence": "Medium",
+        "note": "Taiwanese Hokkien reference: wording and tones may differ in Singapore.",
+        "source": "https://omniglot.com/language/phrases/taiwanese.php"
+      },
+      {
+        "language": "Cantonese 廣東話",
+        "key": "cantonese",
+        "text": "你好",
+        "reading": "néih hóu",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/cantonese.php"
+      },
+      {
+        "language": "Teochew 潮州话",
+        "key": "teochew",
+        "text": "汝好",
+        "reading": "leu2 ho2",
+        "confidence": "Medium",
+        "note": "Romanisation follows the source. Tone numbers are not interchangeable between systems.",
+        "source": "https://omniglot.com/language/phrases/teochew.htm"
+      },
+      {
+        "language": "Hakka / Khek 客家話",
+        "key": "hakka",
+        "text": "你好",
+        "reading": "ngi2 ho3",
+        "confidence": "Medium",
+        "note": "Source variety is not specified. Confirm with a Singapore Hakka/Khek speaker.",
+        "source": "https://omniglot.com/language/phrases/hakka.php"
+      },
+      {
+        "language": "Tagalog",
+        "key": "tagalog",
+        "text": "Kumusta?",
+        "reading": "Also means \"How are you?\"",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/tagalog.php"
+      },
+      {
+        "language": "Vietnamese Tiếng Việt",
+        "key": "vietnamese",
+        "text": "Chào anh / Chào chị",
+        "reading": "Address a man / woman; choose the address term for the relationship.",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/vietnamese.php"
+      }
+    ]
+  },
+  {
+    "english": "Good morning",
+    "context": "Greet a neighbour or colleague.",
+    "cells": [
+      {
+        "language": "Mandarin 中文",
+        "key": "mandarin",
+        "text": "早安",
+        "reading": "zǎo'ān",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/mandarin.php"
+      },
+      {
+        "language": "Malay Bahasa Melayu",
+        "key": "malay",
+        "text": "Selamat pagi",
+        "reading": "",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/malay.php"
+      },
+      {
+        "language": "Tamil தமிழ்",
+        "key": "tamil",
+        "text": "காலை வணக்கம்",
+        "reading": "kaalai vanakkam",
+        "confidence": "Medium",
+        "note": "Source-backed, but spoken/formal usage needs Singapore speaker review.",
+        "source": "https://omniglot.com/language/phrases/tamil.php"
+      },
+      {
+        "language": "Hokkien 福建话",
+        "key": "hokkien",
+        "text": "𠢕早",
+        "reading": "gâu-chá",
+        "confidence": "Medium",
+        "note": "Taiwanese Hokkien reference: wording and tones may differ in Singapore.",
+        "source": "https://omniglot.com/language/phrases/taiwanese.php"
+      },
+      {
+        "language": "Cantonese 廣東話",
+        "key": "cantonese",
+        "text": "早晨",
+        "reading": "jóusàhn",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/cantonese.php"
+      },
+      {
+        "language": "Teochew 潮州话",
+        "key": "teochew",
+        "text": "早",
+        "reading": "ja2",
+        "confidence": "Medium",
+        "note": "Romanisation follows the source. Tone numbers are not interchangeable between systems.",
+        "source": "https://omniglot.com/language/phrases/teochew.htm"
+      },
+      {
+        "language": "Hakka / Khek 客家話",
+        "key": "hakka",
+        "text": "安早",
+        "reading": "on1 zo3",
+        "confidence": "Medium",
+        "note": "Source variety is not specified. Confirm with a Singapore Hakka/Khek speaker.",
+        "source": "https://omniglot.com/language/phrases/hakka.php"
+      },
+      {
+        "language": "Tagalog",
+        "key": "tagalog",
+        "text": "Magandang umaga po",
+        "reading": "Polite form",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/tagalog.php"
+      },
+      {
+        "language": "Vietnamese Tiếng Việt",
+        "key": "vietnamese",
+        "text": "Chào buổi sáng",
+        "reading": "",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/vietnamese.php"
+      }
+    ]
+  },
+  {
+    "english": "How are you?",
+    "context": "Check in with someone.",
+    "cells": [
+      {
+        "language": "Mandarin 中文",
+        "key": "mandarin",
+        "text": "你好吗？",
+        "reading": "nǐ hǎo ma",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/mandarin.php"
+      },
+      {
+        "language": "Malay Bahasa Melayu",
+        "key": "malay",
+        "text": "Apa khabar?",
+        "reading": "",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/malay.php"
+      },
+      {
+        "language": "Tamil தமிழ்",
+        "key": "tamil",
+        "text": "எப்படி இருக்கீங்க?",
+        "reading": "eppadi irukeenga? · spoken form",
+        "confidence": "Medium",
+        "note": "Source-backed, but spoken/formal usage needs Singapore speaker review.",
+        "source": "https://omniglot.com/language/phrases/tamil.php"
+      },
+      {
+        "language": "Hokkien 福建话",
+        "key": "hokkien",
+        "text": "你好無？",
+        "reading": "lí hó-bò",
+        "confidence": "Medium",
+        "note": "Taiwanese Hokkien reference: wording and tones may differ in Singapore.",
+        "source": "https://omniglot.com/language/phrases/taiwanese.php"
+      },
+      {
+        "language": "Cantonese 廣東話",
+        "key": "cantonese",
+        "text": "點呀？",
+        "reading": "dím a · casual",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/cantonese.php"
+      },
+      {
+        "language": "Teochew 潮州话",
+        "key": "teochew",
+        "text": "汝好吗？",
+        "reading": "leu2 ho2 ma1",
+        "confidence": "Medium",
+        "note": "Romanisation follows the source. Tone numbers are not interchangeable between systems.",
+        "source": "https://omniglot.com/language/phrases/teochew.htm"
+      },
+      {
+        "language": "Hakka / Khek 客家話",
+        "key": "hakka",
+        "text": "你好冇？",
+        "reading": "ngi2 ho3 mo?",
+        "confidence": "Medium",
+        "note": "Source variety is not specified. Confirm with a Singapore Hakka/Khek speaker.",
+        "source": "https://omniglot.com/language/phrases/hakka.php"
+      },
+      {
+        "language": "Tagalog",
+        "key": "tagalog",
+        "text": "Kumusta ka?",
+        "reading": "",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/tagalog.php"
+      },
+      {
+        "language": "Vietnamese Tiếng Việt",
+        "key": "vietnamese",
+        "text": "Anh khỏe không? / Chị khỏe không?",
+        "reading": "Address a man / woman; relationship matters.",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/vietnamese.php"
+      }
+    ]
+  },
+  {
+    "english": "Thank you",
+    "context": "Show appreciation.",
+    "cells": [
+      {
+        "language": "Mandarin 中文",
+        "key": "mandarin",
+        "text": "谢谢",
+        "reading": "xièxie",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/mandarin.php"
+      },
+      {
+        "language": "Malay Bahasa Melayu",
+        "key": "malay",
+        "text": "Terima kasih",
+        "reading": "",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/malay.php"
+      },
+      {
+        "language": "Tamil தமிழ்",
+        "key": "tamil",
+        "text": "நன்றி",
+        "reading": "nandri",
+        "confidence": "Medium",
+        "note": "Source-backed, but spoken/formal usage needs Singapore speaker review.",
+        "source": "https://omniglot.com/language/phrases/tamil.php"
+      },
+      {
+        "language": "Hokkien 福建话",
+        "key": "hokkien",
+        "text": "感谢",
+        "reading": "kám-siā",
+        "confidence": "Medium",
+        "note": "Singapore source; reading for thanks/reply uses the comparative Hokkien reference.",
+        "source": "https://www.learndialect.sg/hokkien-common-words-useful-phrases/"
+      },
+      {
+        "language": "Cantonese 廣東話",
+        "key": "cantonese",
+        "text": "唔該 / 多謝",
+        "reading": "m̀hgòi · for a service / dòjeh · for a gift",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/cantonese.php"
+      },
+      {
+        "language": "Teochew 潮州话",
+        "key": "teochew",
+        "text": "感谢",
+        "reading": "Gam sia · common Singapore form",
+        "confidence": "High",
+        "note": "Singapore source, informal reading aid without tone marks.",
+        "source": "https://www.learndialect.sg/teochew-how-do-you-say-thank-you/"
+      },
+      {
+        "language": "Hakka / Khek 客家話",
+        "key": "hakka",
+        "text": "多謝",
+        "reading": "do1 sia5",
+        "confidence": "Medium",
+        "note": "Source variety is not specified. Confirm with a Singapore Hakka/Khek speaker.",
+        "source": "https://omniglot.com/language/phrases/hakka.php"
+      },
+      {
+        "language": "Tagalog",
+        "key": "tagalog",
+        "text": "Salamat po",
+        "reading": "Polite form",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/tagalog.php"
+      },
+      {
+        "language": "Vietnamese Tiếng Việt",
+        "key": "vietnamese",
+        "text": "Cảm ơn",
+        "reading": "",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/vietnamese.php"
+      }
+    ]
+  },
+  {
+    "english": "You're welcome",
+    "context": "Reply to thanks, not a greeting.",
+    "cells": [
+      {
+        "language": "Mandarin 中文",
+        "key": "mandarin",
+        "text": "不客气",
+        "reading": "bú kèqi",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/mandarin.php"
+      },
+      {
+        "language": "Malay Bahasa Melayu",
+        "key": "malay",
+        "text": "Sama-sama",
+        "reading": "",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/malay.php"
+      },
+      {
+        "language": "Tamil தமிழ்",
+        "key": "tamil",
+        "text": "பரவா இல்லீங்க",
+        "reading": "parva illinga · \"No problem\", spoken reply",
+        "confidence": "Medium",
+        "note": "Source-backed, but spoken/formal usage needs Singapore speaker review.",
+        "source": "https://omniglot.com/language/phrases/tamil.php"
+      },
+      {
+        "language": "Hokkien 福建话",
+        "key": "hokkien",
+        "text": "免客氣",
+        "reading": "bián kheh-khì",
+        "confidence": "Medium",
+        "note": "Singapore source; reading for thanks/reply uses the comparative Hokkien reference.",
+        "source": "https://www.learndialect.sg/hokkien-common-words-useful-phrases/"
+      },
+      {
+        "language": "Cantonese 廣東話",
+        "key": "cantonese",
+        "text": "唔駛客氣",
+        "reading": "m̀hsái haakhei",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/cantonese.php"
+      },
+      {
+        "language": "Teochew 潮州话",
+        "key": "teochew",
+        "text": "免客气",
+        "reading": "Miang kek ki",
+        "confidence": "High",
+        "note": "Singapore source, informal reading aid without tone marks.",
+        "source": "https://www.learndialect.sg/teochew-how-do-you-say-thank-you/"
+      },
+      {
+        "language": "Hakka / Khek 客家話",
+        "key": "hakka",
+        "text": "唔駛客氣",
+        "reading": "m1 sii3 hak7 hi5",
+        "confidence": "Medium",
+        "note": "Source variety is not specified. Confirm with a Singapore Hakka/Khek speaker.",
+        "source": "https://omniglot.com/language/phrases/hakka.php"
+      },
+      {
+        "language": "Tagalog",
+        "key": "tagalog",
+        "text": "Wala pong anuman",
+        "reading": "Polite form",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/tagalog.php"
+      },
+      {
+        "language": "Vietnamese Tiếng Việt",
+        "key": "vietnamese",
+        "text": "Không có gì",
+        "reading": "",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/vietnamese.php"
+      }
+    ]
+  },
+  {
+    "english": "Sorry",
+    "context": "Apologise for a mistake.",
+    "cells": [
+      {
+        "language": "Mandarin 中文",
+        "key": "mandarin",
+        "text": "对不起",
+        "reading": "duìbùqǐ",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/mandarin.php"
+      },
+      {
+        "language": "Malay Bahasa Melayu",
+        "key": "malay",
+        "text": "Minta maaf",
+        "reading": "",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/malay.php"
+      },
+      {
+        "language": "Tamil தமிழ்",
+        "key": "tamil",
+        "text": "மன்னிக்க வேண்டும்",
+        "reading": "mannikka vendum · request for forgiveness",
+        "confidence": "Medium",
+        "note": "Source-backed, but spoken/formal usage needs Singapore speaker review.",
+        "source": "https://omniglot.com/language/phrases/tamil.php"
+      },
+      {
+        "language": "Hokkien 福建话",
+        "key": "hokkien",
+        "text": "对唔住",
+        "reading": "Dui mm zu · stronger apology",
+        "confidence": "Medium",
+        "note": "Singapore source; reading for thanks/reply uses the comparative Hokkien reference.",
+        "source": "https://www.learndialect.sg/hokkien-how-do-you-say-sorry/"
+      },
+      {
+        "language": "Cantonese 廣東話",
+        "key": "cantonese",
+        "text": "對唔住",
+        "reading": "deuim̀hjyuh",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/cantonese.php"
+      },
+      {
+        "language": "Teochew 潮州话",
+        "key": "teochew",
+        "text": "对唔住",
+        "reading": "Dui mm zu · stronger apology",
+        "confidence": "High",
+        "note": "Singapore source, informal reading aid without tone marks.",
+        "source": "https://www.learndialect.sg/teochew-how-do-you-say-sorry/"
+      },
+      {
+        "language": "Hakka / Khek 客家話",
+        "key": "hakka",
+        "text": "失禮",
+        "reading": "siit7 li1",
+        "confidence": "Medium",
+        "note": "Source variety is not specified. Confirm with a Singapore Hakka/Khek speaker.",
+        "source": "https://omniglot.com/language/phrases/hakka.php"
+      },
+      {
+        "language": "Tagalog",
+        "key": "tagalog",
+        "text": "Pasensya na",
+        "reading": "",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/tagalog.php"
+      },
+      {
+        "language": "Vietnamese Tiếng Việt",
+        "key": "vietnamese",
+        "text": "Xin lỗi",
+        "reading": "",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/vietnamese.php"
+      }
+    ]
+  },
+  {
+    "english": "Excuse me",
+    "context": "Get attention or politely interrupt. Context changes the wording.",
+    "cells": [
+      {
+        "language": "Mandarin 中文",
+        "key": "mandarin",
+        "text": "请问",
+        "reading": "qǐngwén · \"May I ask?\"",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/mandarin.php"
+      },
+      {
+        "language": "Malay Bahasa Melayu",
+        "key": "malay",
+        "text": "Maafkan saya",
+        "reading": "",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/malay.php"
+      },
+      {
+        "language": "Tamil தமிழ்",
+        "key": "tamil",
+        "text": "மன்னிக்க வேண்டும்",
+        "reading": "mannikka vendum",
+        "confidence": "Medium",
+        "note": "Source-backed, but spoken/formal usage needs Singapore speaker review.",
+        "source": "https://omniglot.com/language/phrases/tamil.php"
+      },
+      {
+        "language": "Hokkien 福建话",
+        "key": "hokkien",
+        "text": "歹势",
+        "reading": "Pai seh · embarrassment / polite prelude",
+        "confidence": "Medium",
+        "note": "Singapore source; reading for thanks/reply uses the comparative Hokkien reference.",
+        "source": "https://www.learndialect.sg/hokkien-how-do-you-say-sorry/"
+      },
+      {
+        "language": "Cantonese 廣東話",
+        "key": "cantonese",
+        "text": "請問",
+        "reading": "chéngmahn · to ask a question",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/cantonese.php"
+      },
+      {
+        "language": "Teochew 潮州话",
+        "key": "teochew",
+        "text": "孬意思",
+        "reading": "Mor yi seir · embarrassment / polite prelude",
+        "confidence": "High",
+        "note": "Singapore source, informal reading aid without tone marks.",
+        "source": "https://www.learndialect.sg/teochew-how-do-you-say-sorry/"
+      },
+      {
+        "language": "Hakka / Khek 客家話",
+        "key": "hakka",
+        "text": "請問",
+        "reading": "ts'iang3 mun5 · \"May I ask?\"",
+        "confidence": "Medium",
+        "note": "Source variety is not specified. Confirm with a Singapore Hakka/Khek speaker.",
+        "source": "https://omniglot.com/language/phrases/hakka.php"
+      },
+      {
+        "language": "Tagalog",
+        "key": "tagalog",
+        "text": "Paumanhin po",
+        "reading": "Polite form",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/tagalog.php"
+      },
+      {
+        "language": "Vietnamese Tiếng Việt",
+        "key": "vietnamese",
+        "text": "Xin lỗi",
+        "reading": "",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/vietnamese.php"
+      }
+    ]
+  },
+  {
+    "english": "How much is this?",
+    "context": "Ask the price before buying.",
+    "cells": [
+      {
+        "language": "Mandarin 中文",
+        "key": "mandarin",
+        "text": "这个多少钱？",
+        "reading": "zhège duōshǎo qián?",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/mandarin.php"
+      },
+      {
+        "language": "Malay Bahasa Melayu",
+        "key": "malay",
+        "text": "Berapa harganya ini?",
+        "reading": "",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/malay.php"
+      },
+      {
+        "language": "Tamil தமிழ்",
+        "key": "tamil",
+        "text": "இது எவ்வளவு?",
+        "reading": "idhu evvalavu?",
+        "confidence": "Medium",
+        "note": "Source-backed, but spoken/formal usage needs Singapore speaker review.",
+        "source": "https://omniglot.com/language/phrases/tamil.php"
+      },
+      {
+        "language": "Hokkien 福建话",
+        "key": "hokkien",
+        "text": "偌濟錢？",
+        "reading": "lōa-chē chîⁿ? · \"How much money?\"",
+        "confidence": "Medium",
+        "note": "Taiwanese Hokkien reference: wording and tones may differ in Singapore.",
+        "source": "https://omniglot.com/language/phrases/taiwanese.php"
+      },
+      {
+        "language": "Cantonese 廣東話",
+        "key": "cantonese",
+        "text": "呢個幾多錢呀？",
+        "reading": "Nīgo géidō chín a?",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/cantonese.php"
+      },
+      {
+        "language": "Teochew 潮州话",
+        "key": "teochew",
+        "text": "几箍？",
+        "reading": "gui2 kou1 · \"How many dollars?\"",
+        "confidence": "Medium",
+        "note": "Romanisation follows the source. Tone numbers are not interchangeable between systems.",
+        "source": "https://omniglot.com/language/phrases/teochew.htm"
+      },
+      {
+        "language": "Hakka / Khek 客家話",
+        "key": "hakka",
+        "text": "這個幾多錢？",
+        "reading": "ia ke ki3 to1 ts'ien2?",
+        "confidence": "Medium",
+        "note": "Source variety is not specified. Confirm with a Singapore Hakka/Khek speaker.",
+        "source": "https://omniglot.com/language/phrases/hakka.php"
+      },
+      {
+        "language": "Tagalog",
+        "key": "tagalog",
+        "text": "Magkano ho ito?",
+        "reading": "Polite form",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/tagalog.php"
+      },
+      {
+        "language": "Vietnamese Tiếng Việt",
+        "key": "vietnamese",
+        "text": "Cái này giá bao nhiêu?",
+        "reading": "",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/vietnamese.php"
+      }
+    ]
+  },
+  {
+    "english": "Goodbye",
+    "context": "Leave on a friendly note.",
+    "cells": [
+      {
+        "language": "Mandarin 中文",
+        "key": "mandarin",
+        "text": "再见",
+        "reading": "zàijiàn",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/mandarin.php"
+      },
+      {
+        "language": "Malay Bahasa Melayu",
+        "key": "malay",
+        "text": "Sampai jumpa lagi",
+        "reading": "\"See you again.\"",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/malay.php"
+      },
+      {
+        "language": "Tamil தமிழ்",
+        "key": "tamil",
+        "text": "போய் விட்டு வருகிறேன்",
+        "reading": "poy vittu varugiren · said by the person leaving",
+        "confidence": "Medium",
+        "note": "Source-backed, but spoken/formal usage needs Singapore speaker review.",
+        "source": "https://omniglot.com/language/phrases/tamil.php"
+      },
+      {
+        "language": "Hokkien 福建话",
+        "key": "hokkien",
+        "text": "再見",
+        "reading": "chài-kiàn",
+        "confidence": "Medium",
+        "note": "Taiwanese Hokkien reference: wording and tones may differ in Singapore.",
+        "source": "https://omniglot.com/language/phrases/taiwanese.php"
+      },
+      {
+        "language": "Cantonese 廣東話",
+        "key": "cantonese",
+        "text": "再見",
+        "reading": "joigin",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/cantonese.php"
+      },
+      {
+        "language": "Teochew 潮州话",
+        "key": "teochew",
+        "text": "拜拜",
+        "reading": "bai3 bai3",
+        "confidence": "Medium",
+        "note": "Romanisation follows the source. Tone numbers are not interchangeable between systems.",
+        "source": "https://omniglot.com/language/phrases/teochew.htm"
+      },
+      {
+        "language": "Hakka / Khek 客家話",
+        "key": "hakka",
+        "text": "再見",
+        "reading": "tsai5 gien5",
+        "confidence": "Medium",
+        "note": "Source variety is not specified. Confirm with a Singapore Hakka/Khek speaker.",
+        "source": "https://omniglot.com/language/phrases/hakka.php"
+      },
+      {
+        "language": "Tagalog",
+        "key": "tagalog",
+        "text": "Paálam",
+        "reading": "",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/tagalog.php"
+      },
+      {
+        "language": "Vietnamese Tiếng Việt",
+        "key": "vietnamese",
+        "text": "Tạm biệt",
+        "reading": "",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/vietnamese.php"
+      }
+    ]
+  },
+  {
+    "english": "Happy birthday",
+    "context": "Celebrate someone in your family, workplace or neighbourhood.",
+    "cells": [
+      {
+        "language": "Mandarin 中文",
+        "key": "mandarin",
+        "text": "生日快乐",
+        "reading": "shēngrì kuàilè",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/mandarin.php"
+      },
+      {
+        "language": "Malay Bahasa Melayu",
+        "key": "malay",
+        "text": "Selamat hari jadi",
+        "reading": "",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/malay.php"
+      },
+      {
+        "language": "Tamil தமிழ்",
+        "key": "tamil",
+        "text": "இனிய பிறந்த நாள் நல்வாழ்த்துக்கள்",
+        "reading": "iniya pirandha naal nalvaazthukkal",
+        "confidence": "Medium",
+        "note": "Source-backed, but spoken/formal usage needs Singapore speaker review.",
+        "source": "https://omniglot.com/language/phrases/tamil.php"
+      },
+      {
+        "language": "Hokkien 福建话",
+        "key": "hokkien",
+        "text": "生日快樂",
+        "reading": "seng-ji̍t khòai-lo̍k",
+        "confidence": "Medium",
+        "note": "Taiwanese Hokkien reference: wording and tones may differ in Singapore.",
+        "source": "https://omniglot.com/language/phrases/taiwanese.php"
+      },
+      {
+        "language": "Cantonese 廣東話",
+        "key": "cantonese",
+        "text": "生日快樂",
+        "reading": "sàangyaht faailohk",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/cantonese.php"
+      },
+      {
+        "language": "Teochew 潮州话",
+        "key": "teochew",
+        "text": "生日快乐",
+        "reading": "Source gives the written form; pronunciation is not supplied here.",
+        "confidence": "Low",
+        "note": "Written translation sourced; pronunciation intentionally withheld pending speaker review.",
+        "source": "https://www.learndialect.sg/teochew-common-words-useful-phrases/"
+      },
+      {
+        "language": "Hakka / Khek 客家話",
+        "key": "hakka",
+        "text": "生日快樂",
+        "reading": "sang1 ngit7 kuai5 lok8",
+        "confidence": "Medium",
+        "note": "Source variety is not specified. Confirm with a Singapore Hakka/Khek speaker.",
+        "source": "https://omniglot.com/language/phrases/hakka.php"
+      },
+      {
+        "language": "Tagalog",
+        "key": "tagalog",
+        "text": "Maligayang kaarawan",
+        "reading": "",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/tagalog.php"
+      },
+      {
+        "language": "Vietnamese Tiếng Việt",
+        "key": "vietnamese",
+        "text": "Chúc mừng sinh nhật",
+        "reading": "",
+        "confidence": "High",
+        "note": "",
+        "source": "https://omniglot.com/language/phrases/vietnamese.php"
+      }
+    ]
+  }
+]
