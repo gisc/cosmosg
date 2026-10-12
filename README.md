@@ -26,3 +26,7 @@ Translation sources: LearnDialect.sg (Singapore teaching resources) and Omniglot
 No analytics, account, microphone or external translation service. The page uses no cookies or local storage. Source links and GitHub correction links leave the site.
 
 Prepared 12 October 2026.
+
+## Audio
+
+Each phrase has a Listen button that uses the browser's built-in speech voices (Web Speech API, no server or API key). English, Mandarin, Malay, Tamil, Tagalog, Vietnamese and Cantonese play only if the device has a matching voice; otherwise the button says "No voice on this device". Hokkien, Teochew and Hakka have no device voices and are not faked. Device voices read standard forms, not Singapore-accented speech.
